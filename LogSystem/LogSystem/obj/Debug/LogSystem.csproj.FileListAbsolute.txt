@@ -1,0 +1,7 @@
+c:\users\kingsoft\source\repos\LogSystem\LogSystem\obj\Debug\LogSystem.csproj.CoreCompileInputs.cache
+c:\users\kingsoft\source\repos\LogSystem\LogSystem\bin\Debug\LogSystem.pdb
+c:\users\kingsoft\source\repos\LogSystem\LogSystem\obj\Debug\LogSystem.pdb
+C:\Users\kingsoft\source\repos\LogSystem\LogSystem\bin\Debug\LogSystem.dll.config
+C:\Users\kingsoft\source\repos\LogSystem\LogSystem\bin\Debug\LogSystem.dll
+C:\Users\kingsoft\source\repos\LogSystem\LogSystem\obj\Debug\LogSystem.dll
+C:\Users\kingsoft\source\repos\LogSystem\LogSystem\obj\Debug\LogSystem.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\kingsoft\source\repos\LogSystem\LogSystem\bin\Release\LogSystem.dll.config
+C:\Users\kingsoft\source\repos\LogSystem\LogSystem\bin\Release\LogSystem.dll
+C:\Users\kingsoft\source\repos\LogSystem\LogSystem\bin\Release\LogSystem.pdb
+C:\Users\kingsoft\source\repos\LogSystem\LogSystem\obj\Release\LogSystem.csproj.CoreCompileInputs.cache
+C:\Users\kingsoft\source\repos\LogSystem\LogSystem\obj\Release\LogSystem.dll
+C:\Users\kingsoft\source\repos\LogSystem\LogSystem\obj\Release\LogSystem.pdb
