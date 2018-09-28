@@ -11,3 +11,16 @@ C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\server_soc
 C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\server_socket\bin\Release\server_socket.exe.config
 C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\server_socket\bin\Release\server_socket.exe
 C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\server_socket\obj\Release\server_socket.exe
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\bin\Release\server_socket.exe.config
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\bin\Release\server_socket.exe
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\bin\Release\server_socket.pdb
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\bin\Release\LogSystem.dll
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\bin\Release\Newtonsoft.Json.dll
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\bin\Release\LogSystem.pdb
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\bin\Release\LogSystem.dll.config
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\bin\Release\Newtonsoft.Json.xml
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\obj\Release\server_socket.csprojAssemblyReference.cache
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\obj\Release\server_socket.csproj.CoreCompileInputs.cache
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\obj\Release\server_socket.csproj.CopyComplete
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\obj\Release\server_socket.exe
+C:\Users\kingsoft\Documents\Visual Studio 2013\Projects\server_socket\GameServer\server_socket\obj\Release\server_socket.pdb

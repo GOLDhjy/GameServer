@@ -57,7 +57,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\source\repos\LogSystem\LogSystem\LogSystem.csproj">
+    <ProjectReference Include="..\LogSystem\LogSystem\LogSystem.csproj">
       <Project>{28bb05d6-e657-442e-921b-173af0ac9e96}</Project>
       <Name>LogSystem</Name>
     </ProjectReference>

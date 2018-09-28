@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server_socket", "server_soc
 		{28BB05D6-E657-442E-921B-173AF0AC9E96} = {28BB05D6-E657-442E-921B-173AF0AC9E96}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogSystem", "..\..\..\..\source\repos\LogSystem\LogSystem\LogSystem.csproj", "{28BB05D6-E657-442E-921B-173AF0AC9E96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogSystem", "LogSystem\LogSystem\LogSystem.csproj", "{28BB05D6-E657-442E-921B-173AF0AC9E96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
