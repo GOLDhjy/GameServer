@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server_socket", "server_socket\server_socket.csproj", "{3AF7AA8B-5414-4011-8671-8D7C0DA40EFE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{28BB05D6-E657-442E-921B-173AF0AC9E96} = {28BB05D6-E657-442E-921B-173AF0AC9E96}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogSystem", "..\..\..\..\source\repos\LogSystem\LogSystem\LogSystem.csproj", "{28BB05D6-E657-442E-921B-173AF0AC9E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF7AA8B-5414-4011-8671-8D7C0DA40EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF7AA8B-5414-4011-8671-8D7C0DA40EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF7AA8B-5414-4011-8671-8D7C0DA40EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF7AA8B-5414-4011-8671-8D7C0DA40EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BB05D6-E657-442E-921B-173AF0AC9E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BB05D6-E657-442E-921B-173AF0AC9E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BB05D6-E657-442E-921B-173AF0AC9E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BB05D6-E657-442E-921B-173AF0AC9E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {899B5D80-DBF7-49E5-BE37-A2ED87D80872}
+	EndGlobalSection
+EndGlobal
